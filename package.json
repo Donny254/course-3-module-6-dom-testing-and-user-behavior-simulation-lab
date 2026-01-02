@@ -15,5 +15,8 @@
     "globals": "^15.8.0",
     "jest": "^29.7.0",
     "jest-environment-jsdom": "^29.7.0"
+  },
+  "dependencies": {
+    "mocha": "^11.7.5"
   }
 }
